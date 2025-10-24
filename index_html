@@ -1,14 +1,45 @@
-<body> 
- <header>matematica</header>
 
-<h1>matematica - bhaskara</h1>
-<p> matematica </p>
-FÓRMULA DE BHASKARA | RÁPIDO e FÁCIL
-#matematica        
-<iframe width="560" height="315" src="https://www.youtube.com
-/embed/CBNtKwbZuj0?si=dxsPSZSy7CiPSbSv" 
-title="YouTube video player" frameborder="0" allow="accelerometer
-; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-
-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"
- allowfullscreen></iframe>
+<html lang="pt-BR">
+
+<head>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Playwrite+US+Modern:wght@100..400&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" hret="">
+    <title>PROGRAMMING IN THE WORLD</title>
+</head>hg
+
+<body>
+
+    <header>PROGRAMMING IN THE WORLD</header>
+    </section>
+
+    <div class="chamada-texto">
+        <h1>Como funcionam as LINGUAGENS de PROGRAMAÇÃO E.8</h1>
+        <ha>How Programming Languages Work E.8</ha>
+        <p>#programação</p>
+    </div>
+
+    <div>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/22nd99SLgNA?si=its6gB6jgTl0CEYc"
+            title="YouTube video player" frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+        </iframe>
+    </div>
+    <section>
+        <section>
+            <h2> outras indicações</h2>
+            <div>
+                <a href="https://www.youtube.com/watch?v=S9uPNppGsGo">
+                    <img src="https://img.youtube.com/vi/S9uPNppGsGo/maxresdefault.jpg"/>
+                </a>
+                <a href="https://www.youtube.com/watch?v=BTENKdRVS2U">
+                    <img src="https://img.youtube.com/vi/BTENKdRVS2U/maxresdefault.jpg"/>
+                </a>
+                <a href="https://www.youtube.com/watch?v=mRryrODqQcw&list"/>
+                    <img src="https://img.youtube.com/vi/nODe5lFcGpg/maxresdefault.jpg"/>
+            </div>
+        </section>
 </body>
