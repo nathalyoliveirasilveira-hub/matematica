@@ -1,9 +1,9 @@
 body{
     color: #000000;
-background: rgb(255, 0, 0);
+background: rgb(29, 84, 100);
 margin:0px;
 font-family:"Playwrite USA Modern",sans-serif;
-    
+    margin-bottom: 100px:
 }
 header{
     border-bottom: solid 2px rgb(255, 255, 255);
@@ -13,7 +13,7 @@ header{
 }
 
 section{
-    background: green;
+    background: rgb(0, 100, 128);
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
@@ -25,4 +25,11 @@ section{
 .categoria-videos img{
   opacity: 0.5; 
 height: 200px;
+}
+.categoria-videos img:houver{
+    opacity: 1.0;
+    border :1px solid pink;
+}
+.categoria h2{
+    color:rgb(0, 100, 128)
 }
