@@ -22,3 +22,7 @@ section{
 .chamada-texto{
     margin-right: 5%;
 }
+.categoria-videos img{
+  opacity: 0.5; 
+height: 200px;
+}
