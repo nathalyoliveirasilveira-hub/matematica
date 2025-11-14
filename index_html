@@ -1,45 +1,52 @@
-
 <html lang="pt-BR">
 
 <head>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Playwrite+US+Modern:wght@100..400&display=swap"
-        rel="stylesheet">
-    <link rel="stylesheet" hret="">
-    <title>PROGRAMMING IN THE WORLD</title>
-</head>hg
+    <link href="https://fonts.googleapis.com/css2?family=Fjalla+One&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    <title>MATEMATICAFLIX</title>
+</head>
 
 <body>
+    <header>MATEMATICAFLIX</header>
 
-    <header>PROGRAMMING IN THE WORLD</header>
+    <section class="chamada">
+        <div class="chamada-texto">
+            <h1>FÓRMULA DE BHASKARA | RÁPIDO e FÁCIL</h1>
+    
+            
+            <p>#matematica</p>
+        </div>
+
+        <div>
+
+            <iframe width="560" height="315" src=<iframe width="560" height="315" src="https://www.youtube.com/embed/CBNtKwbZuj0?si=iqLiliFGV2UMPIwJ" 
+            title="YouTube video player" frameborder="0" 
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+            referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                title="YouTube video player" frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </div>
+
     </section>
-
-    <div class="chamada-texto">
-        <h1>Como funcionam as LINGUAGENS de PROGRAMAÇÃO E.8</h1>
-        <ha>How Programming Languages Work E.8</ha>
-        <p>#programação</p>
-    </div>
-
-    <div>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/22nd99SLgNA?si=its6gB6jgTl0CEYc"
-            title="YouTube video player" frameborder="0"
-            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-            referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
-        </iframe>
-    </div>
-    <section>
-        <section>
-            <h2> outras indicações</h2>
-            <div>
-                <a href="https://www.youtube.com/watch?v=S9uPNppGsGo">
-                    <img src="https://img.youtube.com/vi/S9uPNppGsGo/maxresdefault.jpg"/>
-                </a>
-                <a href="https://www.youtube.com/watch?v=BTENKdRVS2U">
-                    <img src="https://img.youtube.com/vi/BTENKdRVS2U/maxresdefault.jpg"/>
-                </a>
-                <a href="https://www.youtube.com/watch?v=mRryrODqQcw&list"/>
-                    <img src="https://img.youtube.com/vi/nODe5lFcGpg/maxresdefault.jpg"/>
-            </div>
-        </section>
+    <section class="categoria">
+        <h2>Outras indicações</h2>
+        <div class="categoria-videos">
+            <a href="https://www.youtube.com/watch?v=tkfa0Kq_950"/>
+                <img src=" https://img.youtube.com/vi/tkfa0Kq_950/maxresdefault.jpg" />
+            </a>
+            <a href="https://www.youtube.com/watch?v=_zRZj22nNK0" />
+                <img src="https://img.youtube.com/vi/_zRZj22nNK0/maxresdefault.jpg"/>
+            </a>
+            <a href="https://www.youtube.com/watch?v=9s3T71xXRcI"/>
+                <img scr="https://img.youtube.com/vi/9s3T71xXRcI/maxresdefault.jpg"/>
+            </a>
+        </div>
+    </section>
 </body>
+
+</html>
+Área de anexos
+
